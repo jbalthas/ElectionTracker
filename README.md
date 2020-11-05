@@ -1,5 +1,5 @@
 # ElectionTracker
-Gets numbers from 2020 election 
+Gets votes and percentages from 2020 election 
 
 This bot will use selenium to get the current popular vote and percents for the 2020 election
 
